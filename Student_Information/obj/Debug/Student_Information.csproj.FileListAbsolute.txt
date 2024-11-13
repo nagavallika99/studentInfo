@@ -1,0 +1,10 @@
+C:\netfiles\Student_Information\bin\Debug\Student_Information.exe.config
+C:\netfiles\Student_Information\bin\Debug\Student_Information.exe
+C:\netfiles\Student_Information\bin\Debug\Student_Information.pdb
+C:\netfiles\Student_Information\obj\Debug\Student_Information.csproj.AssemblyReference.cache
+C:\netfiles\Student_Information\obj\Debug\Student_Information.Properties.Resources.resources
+C:\netfiles\Student_Information\obj\Debug\Student_Information.csproj.GenerateResource.cache
+C:\netfiles\Student_Information\obj\Debug\Student_Information.csproj.CoreCompileInputs.cache
+C:\netfiles\Student_Information\obj\Debug\Student_Information.exe
+C:\netfiles\Student_Information\obj\Debug\Student_Information.pdb
+C:\netfiles\Student_Information\obj\Debug\Student_Information.Form2.resources
